@@ -1,7 +1,7 @@
 import Brand from "./Brand"
 export default function Tabel(){
     return(
-        <div>
+        <div className="w-[1048px]">
             <table className="mt-4 ml-17 w-[1048px]">
                 <thead  >
                     <tr className="text-black  border-b border-gray-200 ">
